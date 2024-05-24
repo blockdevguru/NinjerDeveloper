@@ -1,2 +1,3 @@
 # NinjerDeveloper
-this is my bio
+
+### Hi there
